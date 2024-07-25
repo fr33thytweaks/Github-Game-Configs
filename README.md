@@ -10,7 +10,7 @@ Settings are subjective, so these configs are not definitive.<br>
 High-end GPUs owners can afford to experiment with higher graphics settings.<br>
 
 # Nvidia Users & Reflex
-Unfortunately, most people focus only on framerate, which is why Nvidia Reflex is highlighted here.
+Unfortunately, most people focus only on framerate, which is why Nvidia Reflex is highlighted here.<br>
 Remember, while FPS is important, system latency matters more.
 
 Enabled/On
